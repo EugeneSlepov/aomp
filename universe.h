@@ -3,6 +3,7 @@
 #include <array>
 #include <atomic>
 #include <chrono>
+#include <cmath>
 #include <iostream>
 #include <limits>
 #include <memory>
